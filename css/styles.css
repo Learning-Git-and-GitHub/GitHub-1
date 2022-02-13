@@ -7,3 +7,8 @@ header {
     background-color: deepskyblue;
     border-color: dimgray;
 }
+
+.header-2 {
+    color: forestgreen;
+    background-color: lightgreen;
+}
